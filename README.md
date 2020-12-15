@@ -1,6 +1,6 @@
 # Why_not_a_Woman_.github.io
 
-Why Not a Woman?
+# Why Not a Woman?
 
  Surgery is a very challenging field and there are physicians today who believe that women aren’t suited for the job. Even though there is an even amount of female doctors, they still aren’t given the same opportunities, respect, or attention as their male counterparts. One reason many women tend to stay away from surgery is because they fear being rejected. Reviews from attending doctors during medical school rotations are an important factor in the matching process, and since the male medical students are more sought after in their surgical residencies they would have better recommendations that would increase their chance in matching into a surgical program. 
 In the medical field, there is an even distribution of men and women physicians, but in each specialty there is a dramatic difference in the amount of women. Women make up the majority of the residents in obstetrics and gynecology, immunology, pediatrics, and a few others. Men make up over 80% of residents in plastic surgery, orthopedic surgery, and neurosurgery.  Every surgical residency program is male dominated with the exception of obstetrics and gynecology surgery. Only five years ago orthopedic, plastic, and cardiac surgery had roughly 5% of female surgeons, and general surgery has the largest number of women reaching 19.2%. 
