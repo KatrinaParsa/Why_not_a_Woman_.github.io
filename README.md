@@ -15,3 +15,5 @@ Surgery has always been a boy’s club, and this would contribute to a cycle of 
 ![pic](https://github.com/KatrinaParsa/Why_not_a_Woman_.github.io/blob/main/Male_Female%20Doctors.png?raw=true)
 
 Another issue is that people often associate women as the main or only caregiver, and assume that she would be distracted by her family life to perform well at work. Therefore, they would also have a much harder time becoming directors of their fields or any other type of senior management position. 
+
+![pic](https://github.com/KatrinaParsa/Why_not_a_Woman_.github.io/blob/main/Leadership%20Postions.png?raw=true)
