@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+Why Not a Woman?
 
-You can use the [editor on GitHub](https://github.com/KatrinaParsa/Why_not_a_Woman_.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ Surgery is a very challenging field and there are physicians today who believe that women aren’t suited for the job. Even though there is an even amount of female doctors, they still aren’t given the same opportunities, respect, or attention as their male counterparts. One reason many women tend to stay away from surgery is because they fear being rejected. Reviews from attending doctors during medical school rotations are an important factor in the matching process, and since the male medical students are more sought after in their surgical residencies they would have better recommendations that would increase their chance in matching into a surgical program. 
+In the medical field, there is an even distribution of men and women physicians, but in each specialty there is a dramatic difference in the amount of women. Women make up the majority of the residents in obstetrics and gynecology, immunology, pediatrics, and a few others. Men make up over 80% of residents in plastic surgery, orthopedic surgery, and neurosurgery.  Every surgical residency program is male dominated with the exception of obstetrics and gynecology surgery. Only five years ago orthopedic, plastic, and cardiac surgery had roughly 5% of female surgeons, and general surgery has the largest number of women reaching 19.2%. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KatrinaParsa/Why_not_a_Woman_.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is the data on surgeons in 2020. There is a gradual growth of women in complex surgical fields, but there is still a huge disparity. There are also other less or non surgical residencies that are male dominated. Ophthalmology, neurology, and radiologists are just a few of the fields where women have a greater presence, but are still male dominated. A woman in med school thinking about what she will match into is a very difficult decision, because gender can majorly be a determining factor to admission committees. 
+
+Surgery has always been a boy’s club, and this would contribute to a cycle of men selecting mostly men to maintain the idea that surgery is man’s territory. A study was done by the National Health Service, in the UK, that looked at the sexism that women face as they are choosing a specialty or after they have made it to the field. This was the response by a female surgeon’s experience in the workplace.“I got told by another surgeon that he left vascular surgery for plastics because there were ‘too many women surgeons and they caused too much drama’,” wrote one participant, while another commented: “Patients don’t think women can be doctors, let alone surgeons.” This shows a consistent attitude that women are incapable of flourishing in complex fields. If current practicing physicians don’t believe the operating room is a place for a woman, then it would be impossible for more women to become surgeons. 
+
+
+
+
+
+
+
+
+
+Another issue is that people often associate women as the main or only caregiver, and assume that she would be distracted by her family life to perform well at work. Therefore, they would also have a much harder time becoming directors of their fields or any other type of senior management position. 
+
+
+
+
+
